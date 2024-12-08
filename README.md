@@ -10,18 +10,19 @@
 - 📑 To gain a comprehensive understanding of my professional journey, please refer to my resume [PDF]()
 
 
-## 📫 How to reach me: <a href="https://nmtin123@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="nmtin123@gmail.com" height="30" width="40" /></a><a href="https://www.facebook.com/ducanh.pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a><a href="https://twitter.com/Ducann02Nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ducanhnt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
+## 📫 How to reach me: <a href="https://nmtin123@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="nmtin123@gmail.com" height="30" width="40" /></a></a><a href="https://www.linkedin.com/in/nmtin0233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
 
 
 
-###
-<a href="https://github.com/nits302/Crypto-Real-Time-Data-Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto-Real-Time-Data-Streaming&theme=radical" />
-</a>   
+###  
 
 <a href="https://github.com/DucAnhNTT/e2e-real-time-streaming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=e2e-real-time-streaming&theme=radical" />
-</a>    
+</a>
+
+<a href="https://github.com/nits302/Crypto-Real-Time-Data-Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto-Real-Time-Data-Streaming&theme=radical" />
+</a> 
 
 
 <a href="https://github.com/DucAnhNTT/azure-real-time-pipeline-sales">
