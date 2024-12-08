@@ -15,8 +15,8 @@
 
 
 ###
-<a href="https://github.com/DucAnhNTT/bigdata-ETL-pipeline">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=bigdata-ETL-pipeline&theme=radical" />
+<a href="https://github.com/nits302/Crypto-Real-Time-Data-Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto-Real-Time-Data-Streaming&theme=radical" />
 </a>   
 
 <a href="https://github.com/DucAnhNTT/e2e-real-time-streaming">
