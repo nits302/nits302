@@ -30,15 +30,7 @@
 
 <a href="https://github.com/DucAnhNTT/movie-recom-pipeline-azure">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=movie-recom-pipeline-azure&theme=radical" />
-</a>    
-
-<a href="https://github.com/DucAnhNTT/real-time-CDC-Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=real-time-CDC-Streaming&theme=radical" />
-</a>   
-
-<a href="https://github.com/DucAnhNTT/ML-and-DS-learning">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=ML-and-DS-learning&theme=radical" />
-</a>   
+</a>  
 
 
 
