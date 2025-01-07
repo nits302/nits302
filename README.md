@@ -21,7 +21,7 @@
 </a> 
 
 <a href="https://github.com/nits302/Change_Data_Capture_Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change_Data_CaptureStreaming&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change_Data_Capture_Streaming&theme=radical" />
 </a> 
 
 <a href="https://github.com/nits302/Reddit_ETL_Pipilne">
