@@ -16,20 +16,20 @@
 
 ###  
 
-<a href="https://github.com/nits302/Change-Data-Capture-Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change-Data-Capture-Streaming&theme=radical" />
+<a href="https://github.com/nits302/Crypto_Real-Time_Data_Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto_Real-Time_Data_Streaming&theme=radical" />
 </a> 
 
-<a href="https://github.com/nits302/Crypto-Real-Time-Data-Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto-Real-Time-Data-Streaming&theme=radical" />
+<a href="https://github.com/nits302/Change_Data_Capture_Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change_Data_CaptureStreaming&theme=radical" />
 </a> 
 
-<a href="https://github.com/DucAnhNTT/e2e-real-time-streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=e2e-real-time-streaming&theme=radical" />
+<a href="https://github.com/nits302/Reddit_ETL_Pipilne">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Reddit_ETL_Pipilne&theme=radical" />
 </a> 
 
-<a href="https://github.com/DucAnhNTT/e2e-real-time-streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=e2e-real-time-streaming&theme=radical" />
+<a href="https://github.com/nits302/DVD_Rental_Pipeline">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=DVD_Rental_Pipeline&theme=radical" />
 </a> 
 
 
