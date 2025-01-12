@@ -32,10 +32,3 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change_Data_Capture_Streaming&theme=radical" />
 </a> 
 
-
- <br>
-<!-- If you forked this repo, Change the username as yours -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nits302&theme=radical&langs_count=3" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nits302&show_icons=true&theme=radical&line_height=27" />
-   
-<br>
