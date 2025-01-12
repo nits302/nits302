@@ -16,59 +16,22 @@
 
 ###  
 
-<a href="https://github.com/nits302/Crypto_Real-Time_Data_Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto_Real-Time_Data_Streaming&theme=radical" />
+<a href="https://github.com/nits302/DVD_Rental_Pipeline">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=DVD_Rental_Pipeline&theme=radical" />
 </a> 
 
-<a href="https://github.com/nits302/Change_Data_Capture_Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change_Data_Capture_Streaming&theme=radical" />
+<a href="https://github.com/nits302/Crypto_Real-Time_Data_Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Crypto_Real-Time_Data_Streaming&theme=radical" />
 </a> 
 
 <a href="https://github.com/nits302/Reddit_ETL_Pipilne">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Reddit_ETL_Pipilne&theme=radical" />
 </a> 
 
-<a href="https://github.com/nits302/DVD_Rental_Pipeline">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=DVD_Rental_Pipeline&theme=radical" />
+<a href="https://github.com/nits302/Change_Data_Capture_Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nits302&repo=Change_Data_Capture_Streaming&theme=radical" />
 </a> 
 
-
-
-#### :hammer_and_wrench: Languages and Tools :
-
-##### 💻 Programming : 
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
-
-##### 💾 Databases : 
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
-![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
-
-##### 🤖 Data Engineer: 
-
-
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-### 📊 BI  Tools : 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-##### ☁️ Cloud : 
-
-![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
-![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=flat&logo=google-Cloud&logoColor=white&labelColor=4285F4)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=white&labelColor=0078D4)
-
-##### 🔨 Tools : 
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
-![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
 
  <br>
 <!-- If you forked this repo, Change the username as yours -->
