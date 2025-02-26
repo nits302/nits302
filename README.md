@@ -3,7 +3,7 @@
 </h1>
 
 
-- 💼 You can explore my diverse portfolio of projects below or on my personal website [Portfolio](https://nits302.github.io/portfolio)
+- 💼 You can explore my diverse portfolio of projects below or on my personal website [Portfolio](https://nmtin0233.netlify.app/)
 
 - 📧 For any professional inquiries, please reach out to me at **nmtin123@gmail.com**
 
